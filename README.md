@@ -13,3 +13,12 @@ Day 1:Total 2 Bugs reported-
 Attached Screenshot image below for better understandig about the bug issue :
 ![WhatsApp Image 2024-07-05 at 23 56 51](https://github.com/vaishnavibhavsar1510/hushh_wallet_app/assets/111491441/77214de6-9094-47e2-b663-6aa10fedbff6)
 
+
+Day 2:
+
+**Third Bug **
+Bug Reported: Issues with Audio Card Addition, Contact Display, and Permission Updates
+The audio card was not initially added and reset after the first button press, but it succeeded on the second attempt. The message indicated that Google has not verified the app in Receipt Radar. Contacts are not appearing in the Hush chat of the card. When we upload our asset using another option, it does not display in the app. We are unable to update the card's minimum bid on Hush card, but it does update on the card I created. We cannot update the access permissions from the permission menu, and sometimes it opens the phone's permission inbox instead.
+
+**Fourth Bug**
+**For Browser Companion Extension** :The issue occurs inconsistently when hovering over purchases, where the "Add to wishlist" option sometimes appears and sometimes does not. This variability suggests a potential bug or inconsistency in the system's behavior. It could be related to specific product categories, purchase history, or possibly a glitch in how the wishlist feature is integrated or enabled for certain items. Further investigation would be needed to pinpoint the exact conditions under which the "Add to wishlist" option fails to appear consistently for some purchases but not others.
