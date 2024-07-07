@@ -22,3 +22,15 @@ The audio card was not initially added and reset after the first button press, b
 
 **Fourth Bug**
 **For Browser Companion Extension** :The issue occurs inconsistently when hovering over purchases, where the "Add to wishlist" option sometimes appears and sometimes does not. This variability suggests a potential bug or inconsistency in the system's behavior. It could be related to specific product categories, purchase history, or possibly a glitch in how the wishlist feature is integrated or enabled for certain items. Further investigation would be needed to pinpoint the exact conditions under which the "Add to wishlist" option fails to appear consistently for some purchases but not others.
+
+
+**Day 3: **
+Bug in Browser Companion Extension:
+Expected Behavior:
+
+The signup page should have a password field with an icon (usually an eye) that allows you to toggle the visibility of the characters you're typing. When you click the icon:
+If the password is currently hidden (represented by dots or asterisks), clicking the icon should reveal the actual characters you typed.
+
+Actual Behavior:
+There seems to be a bug with the password visibility toggle on the signup page. Here's how it deviates from the expected behavior:
+Clicking the icon doesn't not have any effect at all. The password remains hidden regardless of the button's state.
