@@ -14,6 +14,7 @@ Attached Screenshot image below for better understandig about the bug issue :
 ![WhatsApp Image 2024-07-05 at 23 56 51](https://github.com/vaishnavibhavsar1510/hushh_wallet_app/assets/111491441/77214de6-9094-47e2-b663-6aa10fedbff6)
 
 
+
 Day 2:
 
 **Third Bug **
